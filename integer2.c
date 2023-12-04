@@ -4,4 +4,6 @@ int main() {
     printf("enter the integer: ");
     scanf("%d", &n);
     printf("the interger is : %d", n);
+
+    return 0;
 }

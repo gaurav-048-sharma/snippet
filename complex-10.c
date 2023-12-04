@@ -9,4 +9,6 @@ int main(){
     printf("\n values of complex number c2: c2 =%f - %fi\n", creal(c2), cimag(c2));
     double complex sum = c1+c2;
     printf("\nsum of two complex numbers : %f + %fi",creal(sum), cimag(sum));
+
+    return 0;
 }
